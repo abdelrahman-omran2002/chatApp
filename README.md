@@ -16,7 +16,10 @@ A cross-platform real-time messaging app built with Flutter & Firebase.
 - StreamBuilder
 
 ## 📸 Screenshots
-(Add screenshots here)
+## 📸 Screenshots
+<img src="screenshots/chat.png" width="250">
+<img src="screenshots/home.png" width="250">
+<img src="screenshots/register.png" width="250">
 
 ## 🚀 Getting Started
 1. Clone the repo
